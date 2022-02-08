@@ -1,0 +1,73 @@
+<li> <a rel="nofollow" class="external text" href="http://code.google.com/p/text2onto/">Text2Onto</a> is a framework for ontology learning from textual resources that extends and re-engineers an earlier framework developed by the same group (TextToOnto). Text2Onto offers three main features: it represents the learned knowledge at a metalevel by instantiating the modelling primitives of a Probabilistic Ontology Model (POM), thus remaining independent from a specific target language while allowing the translation of the instantiated primitives
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.semanticweb.gr/TheaOWLLib/">Thea</a> is a Prolog library for generating and manipulating OWL (Web Ontology Language) content. Thea OWL parser uses SWI-Prolog’s Semantic Web library for parsing RDF/XML serialisations of OWL documents into RDF triples and then it builds a representation of the OWL ontology
+</li>
+<li> <a rel="nofollow" class="external text" href="http://owl.cs.manchester.ac.uk/repository/">TONES Ontology Repository</a> is primarily designed to be a central location for ontologies that might be of use to tools developers for testing purposes; it is part of the TONES project
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.sandsoft.com/products.html">Visual Ontology Manager</a> (VOM) is a family of tools enables UML-based visual construction of component-based ontologies for use in collaborative applications and interoperability solutions.
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.alphaworks.ibm.com/tech/wom?open&amp;S_TACT=105AGX59&amp;S_CMP=GR&amp;ca=dgr-lnxwd01awwom">Web Ontology Manager</a> is a lightweight, Web-based tool using J2EE for managing ontologies expressed in Web Ontology Language (OWL). It enables developers to browse or search the ontologies registered with the system by class or property names. In addition, they can submit a new ontology file
+</li>
+<li> <a rel="nofollow" class="external text" href="http://drupal.org/project/evoc">RDF evoc (external vocabulary importer)</a> is an RDF external vocabulary importer module (evoc) for Drupal caches any external RDF vocabulary and provides properties to be mapped to CCK fields, node title and body. This module requires the RDF and the SPARQL modules.
+</li>
+</ul>
+<h4><span class="mw-headline" id="Not_Apparently_in_Active_Use_4">Not Apparently in Active Use</span></h4>
+<ul>
+<li> <a rel="nofollow" class="external text" href="http://www.tecweb.inf.puc-rio.br:8000/hyperde/wiki/ActiveOntology">ActiveOntology</a> is a library, written in Ruby, for easy manipulation of RDF and RDF-Schema models, thru a dynamic DSL based on Ruby idiom
+</li>
+<li> <a rel="nofollow" class="external text" href="http://ontoware.org/projects/almo">Almo</a> is an ontology-based workflow engine in Java supporting the ARTEMIS project; part of the OntoWare initiative
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.aktors.org/technologies/classakt/">ClassAKT</a> is a text classification web service for classifying documents according to the ACM Computing Classification System
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.openrdf.org/">Elmo</a> provides a simple API to access ontology oriented data inside a Sesame RDF repository. The domain model is simplified into independent concerns that are composed together for multi-dimensional, inter-operating, or integrated applications
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.aktors.org/technologies/extrakt/">ExtrAKT</a> is a tool for extracting ontologies from Prolog knowledge bases.
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.aktors.org/technologies/f-life/">F-Life</a> is a tool for analysing and maintaining life-cycle patterns in ontology development.
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.aktors.org/technologies/foxtrot/">Foxtrot</a> is a recommender system which represents user profiles in ontological terms, allowing inference, bootstrapping and profile visualization.
+</li>
+<li> <a rel="nofollow" class="external text" href="http://projects.semwebcentral.org/projects/hyperdaml/">HyperDAML</a> creates an HTML representation of OWL content to enable hyperlinking to specific objects, properties, etc.
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.landcglobal.com/pages/linkfactory.php">LinKFactory</a> is an ontology management tool, it provides an effective and user-friendly way to create, maintain and extend extensive multilingual terminology systems and ontologies (English, Spanish, French, etc.). It is designed to build, manage and maintain large, complex, language independent ontologies.
+</li>
+<li> <a rel="nofollow" class="external text" href="http://svn.mumble.net:8080/svn/lsw/trunk">LSW</a> – the Lisp semantic Web toolkit enables OWL ontologies to be visualized. It was written by Alan Ruttenberg
+</li>
+<li> <a rel="nofollow" class="external text" href="http://analytics.ijs.si/node/3">OntoClassify</a> is a system for scalable classification of text into large topic ontologies currently including DMoz and Inspec. The system is available as Web service. The software runs under Windows platform.
+</li>
+</ul>
+<ul>
+<li> <a rel="nofollow" class="external text" href="http://www.seco.tkk.fi/projects/semweb/dist.php">Ontodella</a> is a Prolog HTTP server for category projection and semantic linking
+</li>
+<li> <a rel="nofollow" class="external text" href="http://kmi.open.ac.uk/projects/akt/ontoweaver/">OntoWeaver</a> is an ontology-based approach to Web sites, which provides high level support for web site design and development
+</li>
+<li> <a rel="nofollow" class="external text" href="http://phpowllib.sourceforge.net/">OWLLib</a> is a PHP library for accessing OWL files. OWL is w3.org standard for storing semantic information
+</li>
+<li> <a rel="nofollow" class="external text" href="http://powl.sourceforge.net/index.php">pOWL</a> is a Semantic Web development platform for ontologies in PHP. pOWL consists of a number of components, including RAP
+</li>
+<li> <a rel="nofollow" class="external text" href="http://projects.semwebcentral.org/projects/rowl/">ROWL</a> is the Rule Extension of OWL; it is from the Mobile Commerce Lab in the School of Computer Science at Carnegie Mellon University
+</li>
+<li> <a rel="nofollow" class="external text" href="https://sourceforge.net/projects/semantag">Semantic Net Generator</a> is a utlity for generating Topic Maps automatically from different data sources by using rules definitions specified with Jelly XML syntax. This Java library provides Jelly tags to access and modify data sources (also RDF) to create a semantic network
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.mindswap.org/2005/SMORE/">SMORE</a> is OWL markup for HTML pages. SMORE integrates the SWOOP ontology browser, providing a clear and consistent way to find and view Classes and Properties, complete with search functionality
+</li>
+<li> <a rel="nofollow" class="external text" href="http://soboleo.fzi.de:8080/webPortal/">SOBOLEO</a> is a system for Web-based collaboration to create SKOS taxonomies and ontologies and to annotate various Web resources using them
+</li>
+<li> <a rel="nofollow" class="external text" href="http://sofa.projects.semwebcentral.org/">SOFA</a> is a Java API for modeling ontologies and Knowledge Bases in ontology and Semantic Web applications. It provides a simple, abstract and language neutral ontology object model, inferencing mechanism and representation of the model with OWL, DAML+OIL and RDFS languages; from java.dev
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.isi.edu/webscripter/">WebScripter</a> is a tool that enables ordinary users to easily and quickly assemble reports extracting and fusing information from multiple, heterogeneous DAMLized Web sources.
+</li>
+</ul>
+<h3><span class="mw-headline" id="To_Be_Completed.3B_Categorized">To Be Completed; Categorized</span></h3>
+<ul>
+<li> <a rel="nofollow" class="external free" href="http://icatdemo.stanford.edu/">http://icatdemo.stanford.edu/</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="https://semtools.ecoinformatics.org/owlifier">OWLifier</a> is an application for simplifying the creation of OWL-based ontologies. It employs a simple spreadsheet-based syntax for defining ontology classes and properties, allowing for the creation of ontologies using common spreadsheet tools See Shawn Bowersa, Joshua S. Madinb and Mark P. Schildhauer. Owlifier: Creating OWL-DL Ontologies from Simple Spreadsheet-Based Knowledge
+</li>
+<li> <a rel="nofollow" class="external text" href="http://knb.ecoinformatics.org/morphoportal.jsp">Morpho</a> allows you to create and manage your data, and to share it with others. It was created to provide an easy-to-use, cross-platform application for accessing and manipulating metadata and data (both locally and on the network). Morpho allows ecologists to create metadata, (i.e. describe their data in a standardized format), and create a catalog of data &amp; metadata upon which to query, edit and view data collections. In addition, It also provides the means to access network servers, in order to query, view and retrieve all relevant, public ecological data
+</li>
+<li> <a rel="nofollow" class="external free" href="https://semtools.ecoinformatics.org/repository/docs/pubs/ISEI6/main.pdf">https://semtools.ecoinformatics.org/repository/docs/pubs/ISEI6/main.pdf</a>
+</li>
+<li> <a rel="nofollow" class="external free" href="http://web.fumsi.com/go/article/manage/61483">http://web.fumsi.com/go/article/manage/61483</a>
+</li>
+
